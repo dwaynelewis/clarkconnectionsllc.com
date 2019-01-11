@@ -240,14 +240,14 @@ ul.menu-click {
 .big-title h1 {
   text-transform: uppercase;
   padding: 0 0 0.2em;
-  color: #fff;
+  color: yellow;
   font-weight: 800;
   font-size: 5em;
   margin: 0 auto;
 }
 
 .big-title p {
-  color: #fff;
+  color: red;
   padding: 0 0 0.6em;
   font-weight: 400;
   font-size: 2.25em;
