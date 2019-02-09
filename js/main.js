@@ -143,7 +143,7 @@
 
   // Typed Js
   $(".element").typed({
-    strings: ["Recruitor", "Consultant"],
+    strings: ["Recruiter", "Consultant"],
     typeSpeed: 1,
     backSpeed: 1,
     backDelay: 1000,
@@ -151,7 +151,7 @@
   });
 
   $(".sub-title").typed({
-    strings: ["Recruitor", "Consultant"],
+    strings: ["Recruiter", "Consultant"],
     typeSpeed: 1,
     backSpeed: 1,
     backDelay: 1400,
